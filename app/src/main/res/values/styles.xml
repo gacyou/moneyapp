@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.Orange" parent="@style/Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/Orange</item>
+		<item name="colorPrimaryDark">@color/OrangeDark</item>
+		<item name="colorAccent">@color/OrangeLight</item>
+		<item name="android:textColorPrimary">@color/white</item>
+		<item name="android:statusBarColor">@color/OrangeDarkT</item>
+	</style>
+</resources>

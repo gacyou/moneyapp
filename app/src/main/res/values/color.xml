@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="sa_green">#14a804</color>
+	<color name="stacked_green">#118504</color>
+	<color name="accent_green">#97e08f</color>
+	<color name="white">#FFFFFF</color>
+	<color name="OrangeDark">#FB8C00</color>
+	<color name="OrangeDarkT">#BFFB8C00</color>
+	<color name="OrangeLight">#FFA726</color>
+	<color name="Orange">#FF9800</color>
+	<color name="transparent">#00000000</color>
+	<color name="grassGreen">#04E762</color>
+	<color name="bloodRed">#FF2204</color>
+	<color name="skyBlue">#03A9F4</color>
+	<color name="skyBlueDark">#0288D1</color>
+	<color name="lime">#CDDC39</color>
+	<color name="limeDark">#C0CA33</color>
+
+	<color name="statusBarColor">#CC000000</color>
+
+	<color name="text_tab_selected">#ffffff</color>
+	<color name="text_tab_unselected">#FF555555</color>
+
+	<!-- drop down list header font color -->
+	<color name="drop_down_list_header_font_color">#000000</color>
+	<!-- drop down list header second font color -->
+	<color name="drop_down_list_header_second_font_color">#000000</color>
+	<!-- drop down list footer font color -->
+	<color name="drop_down_list_footer_font_color">#000000</color>
+</resources>
